@@ -1,9 +1,4 @@
-// Create a web server that listens for requests on port 3000. When someone visits the root route, have the server return the following HTML:
-// <html>
-// <body>
-// <h1>Comments</h1>
-// </body>
-// </html>
+// Create a web server
 const express = require('express');
 const app = express();
 
